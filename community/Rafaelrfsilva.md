@@ -3,7 +3,7 @@
 # Rafael Rodrigues
 
 ## 🎓 Sobre mim
-Olá, eu sou o Rafael Rodrigues, estou cursando o 2 período de Gestão em Tecnologia da Informação.
+Olá, eu sou o Rafael Rodrigues, estou cursando o 2 período de Gestão em Tecnologia da Informação e estou determinado aplicar minhas habilidades analíticas e experiência, visando impulsionar o crescimento da empresa. Comprometido em transformar desafios em oportunidades e contribuir de forma significativa em um ambiente dinâmico e inovador.
 
 ### 🚀 Minha Jornada
 Tenho experiência sólida no segmento de Franquias e Negócios, bem como consultoria comercial, com foco em administração financeira, gestão de equipes, projetos, planejamento de vendas e análise de indicadores de mercado.   
@@ -31,8 +31,6 @@ Tenho experiência sólida no segmento de Franquias e Negócios, bem como consul
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrfsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-
 
 </div>
 
