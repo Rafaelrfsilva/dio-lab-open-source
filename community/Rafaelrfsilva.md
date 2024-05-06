@@ -3,7 +3,7 @@
 # Rafael Rodrigues
 
 ## 🎓 Sobre mim
-Olá, eu sou o Rafael Rodrigues, estou cursando o 2 período de Gestão em Tecnologia da Informação e estou determinado aplicar minhas habilidades analíticas e experiência, visando impulsionar o crescimento da empresa. Comprometido em transformar desafios em oportunidades e contribuir de forma significativa em um ambiente dinâmico e inovador.
+Olá, eu sou o Rafael Rodrigues, estou cursando Gestão em Tecnologia da Informação e estou determinado aplicar minhas habilidades analíticas e experiência, visando impulsionar o crescimento da empresa. Comprometido em transformar desafios em oportunidades e contribuir de forma significativa em um ambiente dinâmico e inovador.
 
 ### 🚀 Minha Jornada
 Tenho experiência sólida no segmento de Franquias e Negócios, bem como consultoria comercial, com foco em administração financeira, gestão de equipes, projetos, planejamento de vendas e análise de indicadores de mercado.   
